@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Veet Men Hair Removal Cream - 45% off! Get smooth skin without cuts. Perfect for sensitive skin.">
+    <title>Veet Men Hair Removal Cream | Huge Bargains UK</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f7f7;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            margin: auto;
+        }
+        header {
+            background-color: #1a73e8;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .product-header {
+            display: flex;
+            align-items: center;
+            margin-top: 20px;
+            gap: 20px;
+        }
+        .product-header img {
+            width: 400px;
+            max-width: 100%;
+            border-radius: 8px;
+        }
+        .product-info {
+            max-width: 700px;
+        }
+        .product-info h1 {
+            font-size: 2em;
+            color: #1a73e8;
+            margin: 0;
+        }
+        .price {
+            font-size: 1.5em;
+            color: #e63946;
+            font-weight: bold;
+        }
+        .old-price {
+            text-decoration: line-through;
+            color: #777;
+            margin-left: 10px;
+        }
+        .cta {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 15px 25px;
+            font-size: 1.2em;
+            background-color: #e63946;
+            color: #fff;
+            border: none;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .cta:hover {
+            background-color: #cc2e3a;
+        }
+        .gallery {
+            display: flex;
+            overflow-x: auto;
+            gap: 10px;
+            margin-top: 20px;
+        }
+        .gallery img {
+            width: 100px;
+            height: 100px;
+            object-fit: cover;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .about, .features, .reviews, .footer {
+            margin-top: 40px;
+        }
+        .about p, .features ul {
+            font-size: 1.1em;
+            line-height: 1.6em;
+        }
+        .reviews {
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+        }
+        .footer {
+            text-align: center;
+            color: #555;
+            font-size: 0.9em;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Huge Bargains UK</h1>
+        <p>Your source for unbeatable deals on Amazon products!</p>
+    </header>
+
+    <div class="container">
+        <div class="product-header">
+            <img src="https://m.media-amazon.com/images/I/61DdaJ3bMUL._AC_SL1080_.jpg" alt="Veet Men Hair Removal Cream">
+            <div class="product-info">
+                <h1>Veet Men Hair Removal Cream, 400ml - Sensitive Skin</h1>
+                <p class="price">Now: £7.13 <span class="old-price">RRP: £12.99</span></p>
+                <a href="https://amzlink.to/az0peCfgcXurc" class="cta" target="_blank">Check Price on Amazon</a>
+                <p>Enjoy smooth, hair-free skin without cuts or irritation. Designed specifically for men with sensitive skin, this 400ml Veet Hair Removal Cream removes chest and body hair with ease while hydrating the skin.</p>
+            </div>
+        </div>
+
+        <div class="gallery">
+            <img src="https://m.media-amazon.com/images/I/61DdaJ3bMUL._AC_SL1080_.jpg" alt="Product image 1">
+            <img src="https://m.media-amazon.com/images/I/519yxJwZvBL._AC_SL1080_.jpg" alt="Product image 2">
+            <img src="https://m.media-amazon.com/images/I/61+f73gD6DL._AC_SL1080_.jpg" alt="Product image 3">
+            <img src="https://m.media-amazon.com/images/I/51Ub5XjElkL._AC_SL1080_.jpg" alt="Product image 4">
+            <img src="https://m.media-amazon.com/images/I/51h3ZRZkD+L._AC_SL1080_.jpg" alt="Product image 5">
+            <img src="https://m.media-amazon.com/images/I/518s8-nYBmL._AC_SL1080_.jpg" alt="Product image 6">
+        </div>
+
+        <div class="about">
+            <h2>About this Product</h2>
+            <p>This Veet Men Hair Removal Cream is specially formulated for men’s thicker hair and sensitive skin. Perfect for removing hair from the chest, back, arms, and legs. The cream works quickly, leaving skin hydrated and smooth without cuts or pain.</p>
+        </div>
+
+        <div class="features">
+            <h2>Key Features</h2>
+            <ul>
+                <li>Formulated for men with sensitive skin</li>
+                <li>Quick and painless hair removal</li>
+                <li>Hydrating formula that prevents skin dryness</li>
+                <li>Ideal for chest, back, arms, and legs</li>
+                <li>No cuts, no irritation, just smooth skin</li>
+            </ul>
+        </div>
+
+        <div class="reviews">
+            <h2>Customer Reviews</h2>
+            <p>⭐️⭐️⭐️⭐️☆ 4.2 out of 5 stars (3,200 reviews)</p>
+            <p>“This product works great! It’s easy to use and doesn’t irritate my skin. Highly recommend for anyone looking for a painless solution to body hair!” - <em>Verified Customer</em></p>
+            <p>“Better than shaving. Leaves skin soft and smooth without any hassle.” - <em>Verified Customer</em></p>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <p>As an Amazon Associate, Huge Bargains UK earns from qualifying purchases. Prices are subject to change.</p>
+        <p>&copy; 2024 Huge Bargains UK - All Rights Reserved</p>
+    </footer>
+</body>
+</html>
